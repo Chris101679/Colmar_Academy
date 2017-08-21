@@ -27,7 +27,7 @@ header {
   padding-left: 24px;
   position: fixed;
   z-index: 5;
-  background-color: white;
+  background-color: lightblue;
   width: 100%;
 }
 
@@ -236,7 +236,7 @@ video {
   font-weight: bold;
 }
 
-/* Thesis Exhibit right column content */
+/* Thesis Exhibit */
 .exhibit p {
   padding-bottom: 32px;
 }
@@ -278,7 +278,7 @@ footer a {
     border-radius: 5px;
   }
 
-  /*Secondary Banner and Exhibit Banner*/
+  /*Secondary Banner */
   .about-text h5,
   .exhibit h5 {
     font-size: 1.5rem;
@@ -310,7 +310,7 @@ footer a {
     border-radius: 2.5px;
   }
 
-  /*Secondary Banner and Exhibit Banner*/
+  /*Secondary Banner */
   .about-text h5,
   .exhibit h5 {
     font-size: 1rem;
@@ -318,6 +318,7 @@ footer a {
 }
 
 @media only screen and (max-width: 690px) {
+  
   /*Header Nav Bar*/
   .logo {
     font-size: .85rem;
